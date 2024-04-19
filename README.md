@@ -25,7 +25,8 @@
 ## 내용
 ### 구현 기능
 ### HTML, CSS
-- Header, Nav, 표, footer 
+- Header, Nav, 표, footer
+
 ![FRONT](https://github.com/regdoll031/ShopManagement/assets/145822755/c59d3046-d5f9-479c-8194-34430dfe5c3b)
 
 ### 구현기능
